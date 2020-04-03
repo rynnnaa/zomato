@@ -1,6 +1,2 @@
-require "zomato/version"
-
-module Zomato
-  class Error < StandardError; end
-  # Your code goes here...
-end
+#!/usr/local/bin/ruby
+require_relative '../config/environment'
